@@ -1,0 +1,1250 @@
+[
+  {
+    "date": "3/24/2015",
+    "location": "Near Digne-Les-Bains, France",
+    "route": "Barcelona, Spain - Dusseldorf, Germany",
+    "coords": ["6.4318085", "44.2304406"]
+  },
+  {
+    "date": "3/8/2014",
+    "location": "South Indian Ocean",
+    "route": "Kuala Lumpur - Beijing",
+    "coords": ["89.6484375", "-31.5036293"]
+  },
+  {
+    "date": "10/31/2015",
+    "location": "Hasna, Egypt",
+    "route": "Sharem el Sheikh - St. Petersburg",
+    "coords": ["33.7710525", "30.8244223"]
+  },
+  {
+    "date": "6/30/2015",
+    "location": "Medan, Indonesia",
+    "route": "Medan - Tanjung Pinang, Sumatra.",
+    "coords": ["98.6315941", "3.5319254"]
+  },
+  {
+    "date": "12/28/2014",
+    "location": "Java Sea",
+    "route": "Surabaya - Singapore",
+    "coords": ["109.7424316", "-3.1660753"]
+  },
+  {
+    "date": "6/18/1953",
+    "location": "Tachikawa AFB, Tokyo, Japan",
+    "route": "Tachikawa AB - Kimpo AB",
+    "coords": ["139.444313049316", "35.7542790831225"]
+  },
+  {
+    "date": "6/30/1956",
+    "location": "Grand Canyon, Arizona",
+    "route": "Los Angeles - Chicago / Los Angeles - Kansas City",
+    "coords": ["-111.803398", "36.195179"]
+  },
+  {
+    "date": "12/16/1960",
+    "location": "Staten Island / Brooklyn, New York",
+    "route": "Chicago - New York City / Columbus - New York City",
+    "coords": ["-74.099279", "40.567784"]
+  },
+  {
+    "date": "3/4/1962",
+    "location": "Douala, Cameroon",
+    "route": "Douala - Lisboa",
+    "coords": ["9.72496032714844", "4.00468515778379"]
+  },
+  {
+    "date": "3/15/1962",
+    "location": "Western Pacific Ocean, Philippine Sea",
+    "route": "Travis AFB - Honolulu - Agana, Guam - Clark AFB -Saigon",
+    "coords": ["132.451171875", "20.3446269438297"]
+  },
+  {
+    "date": "6/3/1962",
+    "location": "Villeneuve-le-Roi, Val-de-Marne, France",
+    "route": "Paris - New York City",
+    "coords": ["2.38892555236816", "48.7342855426492"]
+  },
+  {
+    "date": "6/22/1962",
+    "location": "Basse-Terre, Guadaloupe, West Indies",
+    "route": "Paris - Pointe-a Pitre - Santaigo",
+    "coords": ["-61.7067718505859", "16.0114959873911"]
+  },
+  {
+    "date": "2/1/1963",
+    "location": "Ankara, Turkey",
+    "route": "Nicosia - Ankara",
+    "coords": ["32.858562", "39.970937"]
+  },
+  {
+    "date": "6/3/1963",
+    "location": "Pacific Ocean, 116 miles WSW of Annette Island, Alaska",
+    "route": "McChord AFB - Elmendorf AFB",
+    "coords": ["-133.758544921875", "54.3261347205053"]
+  },
+  {
+    "date": "11/29/1963",
+    "location": "Ste. Therese de Blainville, Canada",
+    "route": "Montreal - Toronto",
+    "coords": ["-73.8494110107422", "45.6572477951341"]
+  },
+  {
+    "date": "5/20/1965",
+    "location": "Cairo, Egypt",
+    "route": "Karachi - Dhahran - Cairo - Geneva - London",
+    "coords": ["31.409912109375", "30.1130578040595"]
+  },
+  {
+    "date": "1/24/1966",
+    "location": "Mont Blanc, French Alps, Switzerland",
+    "route": "Bombay - Beirut  - Geneva - Paris - London -New York",
+    "coords": ["6.86370849609375", "45.8354972579825"]
+  },
+  {
+    "date": "2/4/1966",
+    "location": "Tokyo Bay, Japan",
+    "route": "Chitose - Tokyo",
+    "coords": ["139.842224121094", "35.536696378395"]
+  },
+  {
+    "date": "3/5/1966",
+    "location": "Near Gotemba City, Mt. Fuji, Japan",
+    "route": "Tokyo - Hong Kong",
+    "coords": ["138.760070800781", "35.3599361628768"]
+  },
+  {
+    "date": "12/24/1966",
+    "location": "Binh Tahi, Da Nang, Vietnam",
+    "route": null,
+    "coords": ["108.199282", "16.012321"]
+  },
+  {
+    "date": "4/20/1967",
+    "location": "Near Nicosia, Cyprus",
+    "route": "Bombay - Cairo",
+    "coords": ["33.3665085", "35.1513544"]
+  },
+  {
+    "date": "11/16/1967",
+    "location": "Near Sverdlovsk, Russia",
+    "route": "Sverdlovsk  - Tashken",
+    "coords": ["60.7626342773438", "56.746322578348"]
+  },
+  {
+    "date": "4/20/1968",
+    "location": "Near Windhoek, South-West  Africa (Namibia)",
+    "route": "Windhoek - Luanda",
+    "coords": ["17.0994472503662", "-22.6076721923095"]
+  },
+  {
+    "date": "5/12/1968",
+    "location": "Kham Duc, Vietnam",
+    "route": null,
+    "coords": ["107.797164916992", "15.440774319934"]
+  },
+  {
+    "date": "3/16/1969",
+    "location": "Maracaibo, Zulia, Venezuela",
+    "route": "Maracaibo - Miami",
+    "coords": ["-71.720123", "10.579116"]
+  },
+  {
+    "date": "3/20/1969",
+    "location": "Near Aswan, Egypt",
+    "route": "Jeddah - Aswan",
+    "coords": ["32.9716873", "24.0734245"]
+  },
+  {
+    "date": "6/23/1969",
+    "location": "Near Poroslitsy, Russia",
+    "route": "Moscow - Chernihiv",
+    "coords": ["35.2381753921509", "54.7394134864613"]
+  },
+  {
+    "date": "2/15/1970",
+    "location": "Santo Domingo, Dominican Republic",
+    "route": "Santo Domingo - San Juan",
+    "coords": ["-69.6509170532227", "18.4134954988643"]
+  },
+  {
+    "date": "7/3/1970",
+    "location": "Near Arbucias, Gerona, Spain",
+    "route": "Manchester - Barcelona",
+    "coords": ["2.46368408203125", "41.8015188673147"]
+  },
+  {
+    "date": "7/5/1970",
+    "location": "Toronto, Canada",
+    "route": "Montreal - Toronto - Los Angeles",
+    "coords": ["-79.6021270751953", "43.6822738361096"]
+  },
+  {
+    "date": "8/9/1970",
+    "location": "Near Cuzco, Peru",
+    "route": "Cuzco - Lima",
+    "coords": ["-71.88803", "-13.541621"]
+  },
+  {
+    "date": "7/30/1971",
+    "location": "Near Morioko, Japan",
+    "route": "Sapporo - Tokyo",
+    "coords": ["140.982398986816", "39.6863176375021"]
+  },
+  {
+    "date": "9/4/1971",
+    "location": "Near Juneau, Alaska",
+    "route": "Anchorage - Seattle",
+    "coords": ["-135.170288085938", "58.3858780081374"]
+  },
+  {
+    "date": "1/7/1972",
+    "location": "Sierra de Atalayasa, Spain",
+    "route": "Valencia - Ibiza",
+    "coords": ["1.32831573486328", "38.9065300300177"]
+  },
+  {
+    "date": "3/14/1972",
+    "location": "Near Al Fujayrah, United Arab Emirates",
+    "route": "Colombo - Dubai",
+    "coords": ["56.2046813964844", "25.1390687090308"]
+  },
+  {
+    "date": "5/5/1972",
+    "location": "Near Carini, Sicily, Italy",
+    "route": "Rome - Palermo",
+    "coords": ["13.1204223632812", "38.107547093144"]
+  },
+  {
+    "date": "5/18/1972",
+    "location": "Near Kharkov, Ukraine, USSR",
+    "route": "Moscow - :\tKharkov",
+    "coords": ["36.4059448242188", "50.1962428134763"]
+  },
+  {
+    "date": "6/18/1972",
+    "location": "London Heathrow,  Staines, Surrey, England",
+    "route": "London - Brussels",
+    "coords": ["-0.507087707519531", "51.4379586610165"]
+  },
+  {
+    "date": "8/14/1972",
+    "location": "Near Konigs Wusterausen, East Germany",
+    "route": "Berlin - Birgas",
+    "coords": ["13.6879348754883", "52.3075864931486"]
+  },
+  {
+    "date": "8/31/1972",
+    "location": "Near Magnitogorsk, Russia",
+    "route": "Karaganda - Moscow",
+    "coords": ["59.0782928466797", "53.5908746147608"]
+  },
+  {
+    "date": "10/1/1972",
+    "location": "Near Adler, USSR",
+    "route": "Adler - Moscow",
+    "coords": ["39.8748779296875", "43.4429488063514"]
+  },
+  {
+    "date": "10/13/1972",
+    "location": "Near Moscow, USSR",
+    "route": "Leningrad - Moscow",
+    "coords": ["37.7423286437988", "55.4257989474939"]
+  },
+  {
+    "date": "12/3/1972",
+    "location": "Tenerife,  Canary Islands",
+    "route": "Tenerife - Munchen",
+    "coords": ["-16.3589859008789", "28.4892122060602"]
+  },
+  {
+    "date": "12/29/1972",
+    "location": "Everglades National Park, Florida",
+    "route": "New York City - Miami",
+    "coords": ["-80.5902099609375", "25.9086444632913"]
+  },
+  {
+    "date": "1/22/1973",
+    "location": "Kano, Nigeria",
+    "route": "Jeddah - Lagos",
+    "coords": ["8.51303100585938", "12.0441891967196"]
+  },
+  {
+    "date": "2/21/1973",
+    "location": "Near Isma'iliya, Egypt",
+    "route": "Tripoli - Cairo",
+    "coords": ["31.4497375488281", "30.1249365665568"]
+  },
+  {
+    "date": "4/10/1973",
+    "location": "Near Basel,  Switzerland",
+    "route": "Bristol - Basel",
+    "coords": ["7.4964165", "47.6103448"]
+  },
+  {
+    "date": "7/11/1973",
+    "location": "Paris, Orly Airport, France",
+    "route": "Rio - de Janerio - Paris",
+    "coords": ["2.28549957275391", "48.70942769705"]
+  },
+  {
+    "date": "9/30/1973",
+    "location": "Near Sverdlovsk, Russia",
+    "route": "Sverdlovsk - Omsk",
+    "coords": ["60.64453125", "56.7354960705564"]
+  },
+  {
+    "date": "10/13/1973",
+    "location": "Near  Domodedovo, Russia",
+    "route": "Tbilisi - Moscow",
+    "coords": ["37.7423286437988", "55.4257989474939"]
+  },
+  {
+    "date": "12/22/1973",
+    "location": "Near Tetouan, Morocco",
+    "route": "Paris - Tanger",
+    "coords": ["-5.43153762817383", "35.6736135063943"]
+  },
+  {
+    "date": "3/3/1974",
+    "location": "Near Ermenonville, France",
+    "route": "Paris - London",
+    "coords": ["2.63998031616211", "49.1463450645348"]
+  },
+  {
+    "date": "4/22/1974",
+    "location": "Grogak, Bali, Indonesia",
+    "route": "Hong Kong - Bali, Indonesia - Sydney, Austrailia",
+    "coords": ["114.766616821289", "-8.27231036771905"]
+  },
+  {
+    "date": "4/27/1974",
+    "location": "Near Leningrad, USSR",
+    "route": "Leningrad - Zaporozhye",
+    "coords": ["30.3497314453125", "59.8020157916782"]
+  },
+  {
+    "date": "12/4/1974",
+    "location": "Near Maskeliya, Sri Lanka",
+    "route": "Surabaya - Jeddah",
+    "coords": ["80.4975128173828", "6.88450448146223"]
+  },
+  {
+    "date": "4/4/1975",
+    "location": "Saigon, South Vietnam",
+    "route": "Tan Son AFB - Clark AFB",
+    "coords": ["106.708145141602", "10.8461194655555"]
+  },
+  {
+    "date": "6/24/1975",
+    "location": "JFK Airport, New York, New York",
+    "route": "New Orleans - New York City",
+    "coords": ["-73.7534523010254", "40.6513410441644"]
+  },
+  {
+    "date": "8/3/1975",
+    "location": "Near Immouzer, Morocco",
+    "route": "Paris - Agadir",
+    "coords": ["-9.82246398925781", "30.71114263721"]
+  },
+  {
+    "date": "8/20/1975",
+    "location": "Near Damascus, Syria",
+    "route": "Prague, Czechoslovakia - Damascus, Syria",
+    "coords": ["36.6661834716797", "33.5385330716233"]
+  },
+  {
+    "date": "3/6/1976",
+    "location": "Near Voronezh, Russia",
+    "route": "Moscow - Yerevan",
+    "coords": ["39.90234375", "51.9036128078835"]
+  },
+  {
+    "date": "9/10/1976",
+    "location": "Near Gaj, Hrvatska, Yugoslavia",
+    "route": "Split - Koln / London - Istanbul",
+    "coords": ["16.3160705566406", "45.8966987949605"]
+  },
+  {
+    "date": "9/19/1976",
+    "location": "Karatepe Mountains, Turkey",
+    "route": "Istanbul - Antalya",
+    "coords": ["30.5419921875", "37.7443856388805"]
+  },
+  {
+    "date": "10/13/1976",
+    "location": "Santa Cruz, Bolivia",
+    "route": "Santa Cruz - Viru",
+    "coords": ["-63.184175", "-17.795602"]
+  },
+  {
+    "date": "3/27/1977",
+    "location": "Tenerife, Canary Islands",
+    "route": "Tenerife - Las Palmas / Tenerife - Las Palmas",
+    "coords": ["-16.324654", "28.4819702"]
+  },
+  {
+    "date": "11/19/1977",
+    "location": "Near Funchal, Island of Madeira, Portugal",
+    "route": "Brussels - Funchal",
+    "coords": ["-16.7772388458252", "32.6991275408041"]
+  },
+  {
+    "date": "12/4/1977",
+    "location": "Straits of Johore, near Kampung Ladang, Malaysia",
+    "route": "Penang - Kuala Lumpur",
+    "coords": ["103.530006408691", "1.3882613601347"]
+  },
+  {
+    "date": "1/1/1978",
+    "location": "Off Bandra, Maharashtra, India",
+    "route": "Bombay - Dubai",
+    "coords": ["72.7730941772461", "19.121165750517"]
+  },
+  {
+    "date": "9/25/1978",
+    "location": "San Diego, California",
+    "route": "Los Angeles - San Diego",
+    "coords": ["-117.120265960693", "32.7437894722572"]
+  },
+  {
+    "date": "11/15/1978",
+    "location": "Near Katunayake, Sri Lanka",
+    "route": "Jeddah - Colombo",
+    "coords": ["79.9006462097168", "7.21007061839233"]
+  },
+  {
+    "date": "12/23/1978",
+    "location": "Off Cinisi, Sicily, Italy",
+    "route": "Rome - Palermo",
+    "coords": ["13.1011962890625", "38.2166040385985"]
+  },
+  {
+    "date": "5/25/1979",
+    "location": "Chicago O'Hare, Illinois",
+    "route": "Chicago, IL- Los Angeles, CA",
+    "coords": ["-87.9319095611572", "42.0100196242406"]
+  },
+  {
+    "date": "8/11/1979",
+    "location": "Near Volgograd, Russia",
+    "route": "Tashkent - Donetsk - Minsk /Chelyabinsk to Kishinev",
+    "coords": ["48.240966796875", "48.4292005555684"]
+  },
+  {
+    "date": "11/26/1979",
+    "location": "Near At Ta'if, Jeddah, Saudi Arabia",
+    "route": "Jeddah - Karachi",
+    "coords": ["40.4049682617188", "21.6931614672649"]
+  },
+  {
+    "date": "11/28/1979",
+    "location": "Near Mt. Erebus, Ross Ice Shelf, Antarctica",
+    "route": "Auckland - Christchurch",
+    "coords": ["167.412414550781", "-77.4188526810139"]
+  },
+  {
+    "date": "1/21/1980",
+    "location": "Elburz Mtns., near Tehran, Iran",
+    "route": "Babol Sar - Tehran",
+    "coords": ["51.3123321533203", "35.9485505600154"]
+  },
+  {
+    "date": "4/25/1980",
+    "location": "Tenerife, Canary Islands",
+    "route": "Manchester - Tenerife",
+    "coords": ["-16.5945006", "28.3053219"]
+  },
+  {
+    "date": "7/8/1980",
+    "location": "Alma-Ata, Kazakhstan",
+    "route": "Alma Ata - Simferopol",
+    "coords": ["76.8792343139648", "43.2544552020963"]
+  },
+  {
+    "date": "8/19/1980",
+    "location": "Riyadh, Saudi Arabia",
+    "route": "Riyadh - Jeddah",
+    "coords": ["46.7300033569336", "24.7324879395303"]
+  },
+  {
+    "date": "8/22/1981",
+    "location": "Near Sanyi, Miao-li, Taiwan",
+    "route": "Taipei - Kaohsiung",
+    "coords": ["120.824203491211", "24.5664838641434"]
+  },
+  {
+    "date": "12/1/1981",
+    "location": "Mt. San Pietro, near Ajaccio, Corsica, France",
+    "route": "Ljubljana - Ajaccio",
+    "coords": ["8.99213790893555", "41.7655502190897"]
+  },
+  {
+    "date": "4/26/1982",
+    "location": "Near Yangshuo, Guangxi, China",
+    "route": "Guangzhou - Guilin",
+    "coords": ["110.651550292969", "25.0016166055877"]
+  },
+  {
+    "date": "6/8/1982",
+    "location": "Near Pacatuba, Brazil",
+    "route": "Rio de Janerio - Fortaleza",
+    "coords": ["-38.6293029785156", "-3.97043599545875"]
+  },
+  {
+    "date": "6/28/1982",
+    "location": "Southern Belarus, USSR",
+    "route": "Leningrad - Kiev",
+    "coords": ["29.2641448974609", "52.0495874452249"]
+  },
+  {
+    "date": "7/9/1982",
+    "location": "Kenner, Louisiana",
+    "route": "New Orleans - Las Vegas",
+    "coords": ["-90.2354764938354", "29.9876498908476"]
+  },
+  {
+    "date": "7/11/1983",
+    "location": "Near Cuenca, Azuay, Ecuador",
+    "route": "Quito - Cuenca",
+    "coords": ["-78.9675807952881", "-2.8744648296536"]
+  },
+  {
+    "date": "9/1/1983",
+    "location": "Near Sakhalin Island, Russia",
+    "route": "Anchorage - Seoul",
+    "coords": ["141.606903076172", "46.5673582233072"]
+  },
+  {
+    "date": "9/23/1983",
+    "location": "Near Mina Jebel Ali, UAE",
+    "route": "Karachi - Abu Dhabi",
+    "coords": ["56.2046813964844", "25.1390687090308"]
+  },
+  {
+    "date": "11/8/1983",
+    "location": "Lubango, Huila, Angola",
+    "route": "Lubango - Luanda",
+    "coords": ["13.5962677001953", "-14.9245496244712"]
+  },
+  {
+    "date": "11/27/1983",
+    "location": "Madrid-Barajas, Spain",
+    "route": "Paris - Madrid - Bogota",
+    "coords": ["-3.45296859741211", "40.4035620782368"]
+  },
+  {
+    "date": "10/11/1984",
+    "location": "Near Omsk, Russia",
+    "route": "Krasnodar - Omsk",
+    "coords": ["73.3112525939941", "54.9692389498465"]
+  },
+  {
+    "date": "12/23/1984",
+    "location": "Near Kranoyarsk, Russia",
+    "route": "Krasnoyarsk - Irkutsk",
+    "coords": ["92.4908065795898", "56.17360665662"]
+  },
+  {
+    "date": "2/19/1985",
+    "location": "Near Durango, Vizcaya, Spain",
+    "route": "Madrid - Bilbao",
+    "coords": ["-2.60787963867188", "43.1003561797326"]
+  },
+  {
+    "date": "6/23/1985",
+    "location": "Atlantic Ocean, 110 miles West of Ireland",
+    "route": "Montreal - London",
+    "coords": ["-14.095458984375", "50.9099606756623"]
+  },
+  {
+    "date": "7/10/1985",
+    "location": "Near Uchuduk, Uzbekistan, USSR",
+    "route": "Karshi - Leningrad",
+    "coords": ["63.3526611328125", "41.6770148220322"]
+  },
+  {
+    "date": "8/2/1985",
+    "location": "Ft. Worth-Dallas, Texas",
+    "route": "Fort Lauderdale - Dallas-Fort Worth",
+    "coords": ["-97.009106", "32.908631"]
+  },
+  {
+    "date": "8/12/1985",
+    "location": "Mt. Osutaka, near Ueno Village, Japan",
+    "route": "Tokyo - Osaka",
+    "coords": ["138.689475059509", "36.0130051708781"]
+  },
+  {
+    "date": "12/12/1985",
+    "location": "Gander, Newfoundland, Canada",
+    "route": "Gander - Fort Campbell, KY",
+    "coords": ["-54.5763230323792", "48.9113030919695"]
+  },
+  {
+    "date": "3/31/1986",
+    "location": "Maravatio, Mexico",
+    "route": "Mexico City - Puerto Vallarta",
+    "coords": ["-100.391693115234", "19.5167575029975"]
+  },
+  {
+    "date": "11/2/1986",
+    "location": "Near Zahedan, Iran",
+    "route": "Bakhtaran - Zahedan",
+    "coords": ["60.9823608398438", "29.5095373345698"]
+  },
+  {
+    "date": "5/9/1987",
+    "location": "Warsaw, Poland",
+    "route": "Warsaw - New York City",
+    "coords": ["21.0444831848145", "52.1133578522815"]
+  },
+  {
+    "date": "8/16/1987",
+    "location": "Romulus, Michigan",
+    "route": "Detroit, MI - Phoenix, AZ",
+    "coords": ["-83.3287239074707", "42.2399562312717"]
+  },
+  {
+    "date": "11/28/1987",
+    "location": "Off Mauritius, Indian Ocean",
+    "route": "Taipei, Taiwan -  Mauritius - Johannesburg, South Africa",
+    "coords": ["59.34814453125", "-19.0621178835147"]
+  },
+  {
+    "date": "1/18/1988",
+    "location": "Near Chungking, Sichuan, China",
+    "route": "Beijing - Chongqing",
+    "coords": ["106.163806915283", "29.2399749822851"]
+  },
+  {
+    "date": "3/17/1988",
+    "location": "Near Cucuta, N of  Santander, Colombia",
+    "route": "Cucuta - Cartagena",
+    "coords": ["-72.6759318", "8.01782"]
+  },
+  {
+    "date": "7/3/1988",
+    "location": "Over the Persian Gulf, near Bandar Abbas, Iran",
+    "route": "Bandar Abbas - Dubai",
+    "coords": ["56.0206604003906", "26.7213870483969"]
+  },
+  {
+    "date": "10/19/1988",
+    "location": "Near Ahmedabad, India",
+    "route": "Bombay - Ahmadabad",
+    "coords": ["72.6959323883057", "23.151053922094"]
+  },
+  {
+    "date": "12/21/1988",
+    "location": "Lockerbie, Scotland",
+    "route": "London - New York City",
+    "coords": ["-3.35031509399414", "55.117041742666"]
+  },
+  {
+    "date": "2/8/1989",
+    "location": "Santa Maria, Azores, Portugal",
+    "route": "Bergamo - Orio al Serio - Santa Maria",
+    "coords": ["-25.0910568237305", "36.980272239974"]
+  },
+  {
+    "date": "6/7/1989",
+    "location": "Near Paramaribo, Surinam",
+    "route": "Paramaribo - Zanderij",
+    "coords": ["-55.2298164367676", "5.45469318243679"]
+  },
+  {
+    "date": "7/19/1989",
+    "location": "Sioux City, Iowa",
+    "route": "Denver, CO - Chicago, IL",
+    "coords": ["-96.3838291168213", "42.405143257568"]
+  },
+  {
+    "date": "9/3/1989",
+    "location": "Near Havana, Cuba",
+    "route": "Havana - Kln, Bonn",
+    "coords": ["-82.3865175247192", "23.0023279118273"]
+  },
+  {
+    "date": "9/19/1989",
+    "location": "Near Bilma, Niger",
+    "route": "N'Djamena - Paris",
+    "coords": ["11.513671875", "16.9517242344344"]
+  },
+  {
+    "date": "10/21/1989",
+    "location": "Near Tegucigalpa, Honduras",
+    "route": "Managua - Tegucigalpa",
+    "coords": ["-87.2485256195068", "13.9743832744986"]
+  },
+  {
+    "date": "11/27/1989",
+    "location": "Bogota, Colombia",
+    "route": "Bogota - Cali",
+    "coords": ["-74.2221736907959", "4.56051114926367"]
+  },
+  {
+    "date": "10/2/1990",
+    "location": "Guangzhou, China",
+    "route": "Guangzhou - Shanghi",
+    "coords": ["113.2586145401", "23.1742540620601"]
+  },
+  {
+    "date": "5/26/1991",
+    "location": "Near Ban Nong Rong, Thailand",
+    "route": "Bangkok - Wien, Austria",
+    "coords": ["99.4501304626465", "14.7350423510753"]
+  },
+  {
+    "date": "7/11/1991",
+    "location": "Jeddah, Saudi Arabia",
+    "route": "Jeddah - Sokoto",
+    "coords": ["39.1696929931641", "21.6366860790244"]
+  },
+  {
+    "date": "10/5/1991",
+    "location": "Near Jakarta, Indonesia",
+    "route": null,
+    "coords": ["106.853563785553", "-6.28582315251278"]
+  },
+  {
+    "date": "7/31/1992",
+    "location": "Nanjing, Jiangsu, China",
+    "route": "Nanjing - Xiamen",
+    "coords": ["118.82984161377", "32.0072025694471"]
+  },
+  {
+    "date": "7/31/1992",
+    "location": "Near Kathmandu, Nepal",
+    "route": "Bangkok - Kathmandu",
+    "coords": ["85.3654861450195", "28.0553176801011"]
+  },
+  {
+    "date": "9/26/1992",
+    "location": "Near Lagos, Nigeria",
+    "route": "Lagos - Kaduna",
+    "coords": ["3.31074714660645", "6.52341223763197"]
+  },
+  {
+    "date": "9/28/1992",
+    "location": "Near  Kathmandu, Nepal",
+    "route": "Karachi - Kathmandu",
+    "coords": ["85.323600769043", "27.5416099984227"]
+  },
+  {
+    "date": "11/24/1992",
+    "location": "Near Guilin, China",
+    "route": "Guangzhou - Guilin",
+    "coords": ["110.303077697754", "25.0062837968038"]
+  },
+  {
+    "date": "12/22/1992",
+    "location": "Tripoli, Libya",
+    "route": "Benghazi - Tripoli",
+    "coords": ["13.4004878997803", "32.8679091594009"]
+  },
+  {
+    "date": "2/8/1993",
+    "location": "Near Tehran, Iran",
+    "route": "Tehran - Khoram",
+    "coords": ["51.1259078979492", "35.7279802756929"]
+  },
+  {
+    "date": "5/19/1993",
+    "location": "Near Medellin, Colombia",
+    "route": "Panama City - Medellin",
+    "coords": ["-75.373592376709", "5.92648397862947"]
+  },
+  {
+    "date": "9/22/1993",
+    "location": "Sukhumi, Georgia",
+    "route": "Tbilisi - Sukhumi",
+    "coords": ["41.111011505127", "42.8664655973936"]
+  },
+  {
+    "date": "11/20/1993",
+    "location": "Near Ohrid, Macedonia",
+    "route": "Genve - Skopje",
+    "coords": ["20.7758760452271", "41.1857920322846"]
+  },
+  {
+    "date": "1/3/1994",
+    "location": "Near Mamony, Siberia, Russia",
+    "route": "Irkutsk - Moscow",
+    "coords": ["104.148330688477", "52.3198123636827"]
+  },
+  {
+    "date": "4/26/1994",
+    "location": "Near Komaki, Aichi, Japan",
+    "route": "Taipe - Nagoya",
+    "coords": ["136.932735443115", "35.2442872460763"]
+  },
+  {
+    "date": "6/6/1994",
+    "location": "Near Xi'an, China",
+    "route": "Xian - Guangzhou",
+    "coords": ["108.687057495117", "34.3712116820262"]
+  },
+  {
+    "date": "9/8/1994",
+    "location": "Near Aliquippa, Pennsylvania",
+    "route": "Chicago - Pittsburgh",
+    "coords": ["-80.3087711334229", "40.6043739439468"]
+  },
+  {
+    "date": "12/18/1995",
+    "location": "Cahungula, Angola",
+    "route": "Jamba Airport - ?",
+    "coords": ["19.4677734375", "-7.75453734653937"]
+  },
+  {
+    "date": "12/20/1995",
+    "location": "Near Buga, Valle del Cauca, Colombia",
+    "route": "Miami - Cali",
+    "coords": ["-76.1057281494141", "3.84746988132925"]
+  },
+  {
+    "date": "1/8/1996",
+    "location": "Kinshasa, Zaire",
+    "route": "Kinshasa - Kahemba",
+    "coords": ["15.2685928344727", "-4.23779761659184"]
+  },
+  {
+    "date": "2/6/1996",
+    "location": "Off Puerto Plata, Domincan Republic",
+    "route": "Puerto Plata - Gander",
+    "coords": ["-70.37841796875", "19.9733487861106"]
+  },
+  {
+    "date": "2/29/1996",
+    "location": "Arequipa, Peru",
+    "route": "Lima - Arequipa",
+    "coords": ["-71.6389274597168", "-16.3372721362823"]
+  },
+  {
+    "date": "5/11/1996",
+    "location": "Everglades, Miami, Florida",
+    "route": "Miami - Atlanta",
+    "coords": ["-80.5795669555664", "25.920070102706"]
+  },
+  {
+    "date": "7/17/1996",
+    "location": "Off East Moriches, New York",
+    "route": "New York City - Paris",
+    "coords": ["-72.6052093505859", "40.6389673438172"]
+  },
+  {
+    "date": "8/29/1996",
+    "location": "Near Longyearbyen, Norway",
+    "route": "Moscow - Svalbard",
+    "coords": ["16.0922241210938", "78.2114739780848"]
+  },
+  {
+    "date": "11/7/1996",
+    "location": "Lagos, Nigeria",
+    "route": "Port Harcourt - Lagos",
+    "coords": ["3.81603240966797", "6.61754692837632"]
+  },
+  {
+    "date": "11/12/1996",
+    "location": "Near Charkhi Dadri, India",
+    "route": "New Delhi - Dhahran / Chimkent - New Delhi",
+    "coords": ["76.2629699707031", "28.6146649887573"]
+  },
+  {
+    "date": "11/23/1996",
+    "location": "Off Mitsamiouli, Comoros",
+    "route": "Addis Ababa - Nairobi",
+    "coords": ["43.3513641357422", "-11.3507967223837"]
+  },
+  {
+    "date": "8/6/1997",
+    "location": "Agana, Guam",
+    "route": "Seoul - Guam",
+    "coords": ["144.732685089111", "13.4552397646633"]
+  },
+  {
+    "date": "9/26/1997",
+    "location": "Buah Nabar, Indonesia",
+    "route": "Jakarta - Medan",
+    "coords": ["98.6599731445312", "3.28448502806183"]
+  },
+  {
+    "date": "12/19/1997",
+    "location": "Near Palembang, Indonesia",
+    "route": "Jakarta - Hatta - Singapore",
+    "coords": ["104.727172851562", "-2.43822859694068"]
+  },
+  {
+    "date": "2/2/1998",
+    "location": "Cagyan de Oro, Philippines",
+    "route": "Tacloban - Cagayan de Oro",
+    "coords": ["125.005187988281", "8.7697245981499"]
+  },
+  {
+    "date": "2/16/1998",
+    "location": "Taipei, Taiwan",
+    "route": "Denpasar - Taipei",
+    "coords": ["121.233530044556", "25.0921284412336"]
+  },
+  {
+    "date": "9/2/1998",
+    "location": "Off Peggy's Cove, Nova Scotia, Canada",
+    "route": "New York City - Geneva",
+    "coords": ["-63.9912414550781", "44.4107309144863"]
+  },
+  {
+    "date": "12/11/1998",
+    "location": "Near Surat Thani, Thailand",
+    "route": "Bangkok - Surat Thani",
+    "coords": ["99.0966796875", "9.09514717859927"]
+  },
+  {
+    "date": "10/31/1999",
+    "location": "Off Nantucket Island, Massachusetts",
+    "route": "New York City - Cairo",
+    "coords": ["-69.8291015625", "40.7222826728315"]
+  },
+  {
+    "date": "1/30/2000",
+    "location": "Off Abidjan, Ivory Coast",
+    "route": "Abidjan - Lagos",
+    "coords": ["-3.93482208251953", "5.22840064101137"]
+  },
+  {
+    "date": "4/19/2000",
+    "location": "Samal Island, Philippines",
+    "route": "Manila - Davao",
+    "coords": ["125.701789855957", "7.15625136751784"]
+  },
+  {
+    "date": "7/25/2000",
+    "location": "Gonesse, France",
+    "route": "Paris - New York City",
+    "coords": ["2.47175216674805", "48.9855682723654"]
+  },
+  {
+    "date": "8/23/2000",
+    "location": "Off Manama, Bahrain",
+    "route": "Cairo - Manama",
+    "coords": ["50.6476593017578", "26.2994169815056"]
+  },
+  {
+    "date": "7/4/2001",
+    "location": "Near Irkutsk, Russia",
+    "route": "Yekaterinburg - Irkutsk - Vladivostok",
+    "coords": ["104.620056152344", "52.1250576548512"]
+  },
+  {
+    "date": "9/11/2001",
+    "location": "New York City, New York",
+    "route": "Boston - Los Angeles",
+    "coords": ["-74.0131759643555", "40.7114185332107"]
+  },
+  {
+    "date": "9/11/2001",
+    "location": "Arlington, Virginia",
+    "route": "Washington D.C. - Los Angeles",
+    "coords": ["-77.058277130127", "38.8708212639442"]
+  },
+  {
+    "date": "10/8/2001",
+    "location": "Milan, Italy",
+    "route": "Milan - Copenhagen / Milan - Paris",
+    "coords": ["9.27743911743164", "45.4519425565885"]
+  },
+  {
+    "date": "11/12/2001",
+    "location": "Belle Harbor, Queens, New York",
+    "route": "New York City - Santo Domingo, Dominican Rep.",
+    "coords": ["-73.8503981", "40.5771133"]
+  },
+  {
+    "date": "2/12/2002",
+    "location": "Near Khorramabed, Iran",
+    "route": "Tehran - Khorramabed",
+    "coords": ["47.9669952392578", "33.6963514130365"]
+  },
+  {
+    "date": "4/15/2002",
+    "location": "Busan, South Korea",
+    "route": "Beijing - Busan",
+    "coords": ["128.927822113037", "35.2314583257065"]
+  },
+  {
+    "date": "5/4/2002",
+    "location": "Kano, Nigeria",
+    "route": "Abuja - Jos - Kano - Lagos",
+    "coords": ["8.4883975982666", "12.030065702757"]
+  },
+  {
+    "date": "5/7/2002",
+    "location": "Off Dalian, China",
+    "route": "Beijing - Dalian",
+    "coords": ["121.797180175781", "38.953535321412"]
+  },
+  {
+    "date": "5/25/2002",
+    "location": "Off Penghu Island, Taiwan",
+    "route": "Taipei - Hong Kong",
+    "coords": ["119.657592773438", "24.0013080925382"]
+  },
+  {
+    "date": "8/19/2002",
+    "location": "Khankala, Chechnya",
+    "route": null,
+    "coords": ["45.7745361328125", "43.3059433118372"]
+  },
+  {
+    "date": "2/19/2003",
+    "location": "Near Shahdad, Iran",
+    "route": "Zahedan - Kerman",
+    "coords": ["57.3966979980469", "30.1415644334843"]
+  },
+  {
+    "date": "3/6/2003",
+    "location": "Tamanrasset, Algeria",
+    "route": "Tamanrasset - Algiers",
+    "coords": ["5.46123504638672", "22.8363130979915"]
+  },
+  {
+    "date": "5/8/2003",
+    "location": "Near Kinshasa, Congo",
+    "route": "Kinshasa - Lubumbashi",
+    "coords": ["15.2682495117188", "-4.36421250473752"]
+  },
+  {
+    "date": "7/8/2003",
+    "location": "Port Sudan, Sudan",
+    "route": "Port Sudan - Khartoum",
+    "coords": ["37.280387878418", "19.4410181497028"]
+  },
+  {
+    "date": "12/25/2003",
+    "location": "Cotonou, Benin",
+    "route": "Conakry, Guinea - Cotonou, Benin - Beirut, Lebanon",
+    "coords": ["2.37373352050781", "6.3501037789501"]
+  },
+  {
+    "date": "1/3/2004",
+    "location": "Off Sharm el Sheikh, Egypt",
+    "route": "Sharm el Sheikh, Egypt - Cairo, Egypt",
+    "coords": ["34.3521881103516", "27.8758039618502"]
+  },
+  {
+    "date": "2/3/2005",
+    "location": "Near Kabul, Afghanistan",
+    "route": "Herat - Kabul",
+    "coords": ["69.49951171875", "34.4624095712856"]
+  },
+  {
+    "date": "8/14/2005",
+    "location": "Near Grammatikos, Greece",
+    "route": "Larnaca, Cyprus - Athens, Greece - Prague, Czech Republic",
+    "coords": ["23.9699363708496", "38.2304943747552"]
+  },
+  {
+    "date": "8/16/2005",
+    "location": "Near La Cucharita, Venezuela",
+    "route": "Panama City - Fort de France, Martinique",
+    "coords": ["-72.61962890625", "9.6792760810544"]
+  },
+  {
+    "date": "9/5/2005",
+    "location": "Medan, Indonesia",
+    "route": "Medan - Jakarta",
+    "coords": ["98.660831451416", "3.54674583256494"]
+  },
+  {
+    "date": "10/22/2005",
+    "location": "Lisa, Nigeria",
+    "route": "Lagos - Abuja",
+    "coords": ["3.2904052734375", "6.81479610086217"]
+  },
+  {
+    "date": "12/6/2005",
+    "location": "Tehran, Iran",
+    "route": "Tehran - Bandar Abbas",
+    "coords": ["51.3729286193848", "35.6724979026477"]
+  },
+  {
+    "date": "12/10/2005",
+    "location": "Near Port Harcourt, Nigeria",
+    "route": "Abuja - Port Harcourt",
+    "coords": ["6.95056915283203", "5.01767329589045"]
+  },
+  {
+    "date": "5/3/2006",
+    "location": "Off Adler, Russia",
+    "route": "Yerevan, Armenia - Sochi, Russia",
+    "coords": ["39.8748779296875", "43.4429488063514"]
+  },
+  {
+    "date": "5/18/2018",
+    "location": "Havana, Cuba",
+    "route": "Havana - Holguin",
+    "coords": ["-82.3994314", "22.9856856"]
+  },
+  {
+    "date": "10/29/2018",
+    "location": "Off Jakarta, Indonesia",
+    "route": "Jakarta - Pangkal Pinang",
+    "coords": ["107.1041861", "-5.820423"]
+  },
+  {
+    "date": "3/10/2019",
+    "location": "Bishoftu, Ethiopia",
+    "route": "Addis Ababa - Nairobi",
+    "coords": ["39.1540153", "8.926618"]
+  },
+  {
+    "date": "7/17/2014",
+    "location": "Hrabove, Ukraine",
+    "route": "Amsterdam - Kuala Lumpur",
+    "coords": ["38.638916", "48.1398597"]
+  },
+  {
+    "date": "7/24/2014",
+    "location": "Aguelhok, Mali",
+    "route": "Ouagadougou, Burkina Faso - Algiers, Algeria",
+    "coords": ["-1.0025024", "15.1251589"]
+  },
+  {
+    "date": "7/9/2006",
+    "location": "Irkutsk, Russia",
+    "route": "Moscow - Irkutsk",
+    "coords": ["104.365782737732", "52.2746963188541"]
+  },
+  {
+    "date": "8/22/2006",
+    "location": "Near Donetsk, Ukraine",
+    "route": "Anapa - St. Petersburg",
+    "coords": ["37.829704284668", "48.3055774509736"]
+  },
+  {
+    "date": "9/29/2006",
+    "location": "Near Sao Felix do Araguaia , Brazil",
+    "route": "Manaus - Brasilia",
+    "coords": ["-53.2315063476562", "-10.5337203155155"]
+  },
+  {
+    "date": "1/1/2007",
+    "location": "Off Parepare, Indonesia",
+    "route": "Surabaya, East Java - Manado, Indonesia",
+    "coords": ["118.281555175781", "-3.64774082269923"]
+  },
+  {
+    "date": "5/5/2007",
+    "location": "Near Dizangue, Cameroon",
+    "route": "Abidjan, Ivory Coast - Douala, Cameroon - Nairobi, Kenya",
+    "coords": ["9.74916458129883", "3.95605092282545"]
+  },
+  {
+    "date": "7/17/2007",
+    "location": "Sao Paulo, Brazil",
+    "route": "Porto Alegre - Sao Paulo",
+    "coords": ["-46.6630554199219", "-23.6209344781319"]
+  },
+  {
+    "date": "8/20/2008",
+    "location": "Madrid, Spain",
+    "route": "Madrid - Las Palmas, Canary Islands",
+    "coords": ["-3.56884002685547", "40.5302408293016"]
+  },
+  {
+    "date": "5/20/2009",
+    "location": "Near Madiun, Indonesia",
+    "route": "Jakarta - Maduin",
+    "coords": ["111.429004669189", "-7.58066811361469"]
+  },
+  {
+    "date": "6/1/2009",
+    "location": "Atlantic Ocean, 570 miles northeast of Natal, Brazil",
+    "route": "Rio de Janeiro - Paris",
+    "coords": ["-29.3994140625", "2.41627565470639"]
+  },
+  {
+    "date": "6/30/2009",
+    "location": "Off Mitsamiouli, Comoros",
+    "route": "Sana'a, Yemen - Moroni, Comoros",
+    "coords": ["43.1021118164062", "-11.2309393626957"]
+  },
+  {
+    "date": "7/15/2009",
+    "location": "Near Qazvin, Iran",
+    "route": "Tehran, Iran - Yerevan, Armenia",
+    "coords": ["49.9967193603516", "36.1389837807034"]
+  },
+  {
+    "date": "5/12/2010",
+    "location": "Tripoli, Libya",
+    "route": "Johannesburg, South Africa - Tripoli, Libya",
+    "coords": ["13.1192207336426", "32.6622113230807"]
+  },
+  {
+    "date": "5/22/2010",
+    "location": "Mangalore, India",
+    "route": "Dubai, UAE - Mangalore, India",
+    "coords": ["74.87380027771", "12.9464913073017"]
+  },
+  {
+    "date": "7/28/2010",
+    "location": "Islamabad, Pakistan",
+    "route": "Karachi - Islamabad",
+    "coords": ["73.0434608459473", "33.7450393827501"]
+  },
+  {
+    "date": "4/20/2012",
+    "location": "Islamabad, Pakistan",
+    "route": "Karachi - Islamabad",
+    "coords": ["73.1407070159912", "33.602824601952"]
+  },
+  {
+    "date": "6/3/2012",
+    "location": "Lagos, Nigeria",
+    "route": "Abuja - Lagos",
+    "coords": ["3.31018924713135", "6.67257843688629"]
+  },
+  {
+    "date": "12/28/2014",
+    "location": "Java Sea",
+    "route": "Surabaya - Singapore",
+    "coords": ["111.2291117", "-4.3017584"]
+  },
+  {
+    "date": "3/24/2015",
+    "location": "Near Digne-Les-Bains, France",
+    "route": "Barcelona, Spain - Dusseldorf",
+    "coords": ["6.4505117", "44.333869"]
+  },
+  {
+    "date": "6/30/2015",
+    "location": "Medan, Indonesia",
+    "route": "Medan - Tanjung Pinang, Sumatra.",
+    "coords": ["98.6305417", "3.5263672"]
+  },
+  {
+    "date": "10/31/2015",
+    "location": "Near Hasna, Egypt",
+    "route": "Sharem el Sheikh - St. Petersburg",
+    "coords": ["34.3170742", "30.261871"]
+  },
+  {
+    "date": "6/7/2017",
+    "location": "Off Dawei, Myanmar",
+    "route": "Myeik - Yangon",
+    "coords": ["98.0345467", "13.5111621"]
+  },
+  {
+    "date": "4/11/2018",
+    "location": "Boufarik AB, Algeria",
+    "route": "Boufarik AB - Bechar - Tindouf",
+    "coords": ["2.8960667", "36.5683945"]
+  },
+  {
+    "date": "1/8/2020",
+    "location": "Shahriah, Iran",
+    "route": "Tehran - Kiev",
+    "coords": ["51.1683785", "35.4232857"]
+  }
+]

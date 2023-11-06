@@ -1,0 +1,1 @@
+FOR %i IN (*.json) DO cat %i | jq .[][] > jq_output/%i

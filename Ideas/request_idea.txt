@@ -1,0 +1,18 @@
+Get info about plane crash
+GET planecrashinfo.com/{year}/{year}-{number}.htm
+
+If 200 exsisted:
+Get pure html back
+	filter the html code to get the values
+
+-> filtered data local saving to backend?
+	json
+	db
+	...
+
+
+
+If 404:
+	page does not exsisted
+		-> maybe use for getting al crashes in a year
+			-> enumerate until 404

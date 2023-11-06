@@ -1,0 +1,65 @@
+{
+  "name": "planecrash",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@googlemaps/react-wrapper": "^1.1.29",
+    "@material-ui/core": "^4.12.3",
+    "@nivo/bar": "^0.79.1",
+    "@nivo/calendar": "^0.79.1",
+    "@nivo/core": "^0.79.0",
+    "@nivo/funnel": "^0.79.1",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@types/calendar": "^0.1.2",
+    "@types/googlemaps": "^3.43.3",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.13",
+    "@types/react": "^17.0.20",
+    "@types/react-dom": "^17.0.9",
+    "@types/react-simple-maps": "^1.0.8",
+    "@types/react-tooltip": "^4.2.4",
+    "chart.js": "^3.7.1",
+    "chartjs-plugin-zoom": "^1.2.0",
+    "chroma-js": "^2.4.2",
+    "react": "^17.0.2",
+    "react-chartjs-2": "^4.0.1",
+    "react-dom": "^17.0.2",
+    "react-script": "^2.0.5",
+    "react-scripts": "5.0.0",
+    "react-simple-maps": "^2.3.0",
+    "react-tooltip": "^4.2.21",
+    "styled-components": "^5.3.5",
+    "sunburst-chart": "^1.15.3",
+    "typescript": "^4.4.2",
+    "web-vitals": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.24"
+  }
+}
