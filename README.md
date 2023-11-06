@@ -1,5 +1,5 @@
 # Information-Visualisation-airplane
-
+Assignment for Information Visualisation course
 ## Initial questions
 [Presentation](https://docs.google.com/presentation/d/174vXEJx_UMqAm4ZywdJpnFGvmU-Z_Rvb_uYAbvbkbU4/edit?usp=sharing)
 
